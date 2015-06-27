@@ -26,7 +26,8 @@
     "english"
   ],
   "dependencies": {
-    "alphabet": "^1.0.0"
+    "alphabet": "^1.0.0",
+    "random-int": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "*"
