@@ -13,16 +13,16 @@ $ npm install --save random-letter
 ## Usage
 
 ```js
-var randomLetter = require('random-letter');
+const randomLetter = require('random-letter');
 
 randomLetter();
-//=> t
+//=> 't'
 
 randomLetter();
-//=> a
+//=> 'a'
 
 randomLetter();
-//=> r
+//=> 'r'
 ```
 
 
